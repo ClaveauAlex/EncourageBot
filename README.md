@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<!-- [![MIT License][license-shield]][license-url] -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
@@ -168,9 +168,9 @@ Lien du projet: [https://github.com/ClaveauAlex/EncourageBot](https://github.com
 [forks-url]: https://github.com/ClaveauAlex/EncourageBot/network/members
 [stars-shield]: https://img.shields.io/github/stars/ClaveauAlex/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/ClaveauAlex/EncourageBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ClaveauAlexClaveauAlex/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ClaveauAlex/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/ClaveauAlex/EncourageBot/issues
-[license-shield]: https://img.shields.io/github/license/ClaveauAlex/repo.svg?style=for-the-badge
-[license-url]: https://github.com/ClaveauAlex/EncourageBot/blob/master/LICENSE.txt
+<!-- [license-shield]: https://img.shields.io/github/license/ClaveauAlex/repo.svg?style=for-the-badge
+[license-url]: https://github.com/ClaveauAlex/EncourageBot/blob/master/LICENSE.txt -->
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ClaveauAlex -->
