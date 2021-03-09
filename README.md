@@ -163,14 +163,14 @@ Lien du projet: [https://github.com/ClaveauAlex/EncourageBot](https://github.com
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ClaveauAlex/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/ClaveauAlex/repo/graphs/contributors
+[contributors-url]: https://github.com/ClaveauAlex/EncourageBot/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ClaveauAlex/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/ClaveauAlex/repo/network/members
+[forks-url]: https://github.com/ClaveauAlex/EncourageBot/network/members
 [stars-shield]: https://img.shields.io/github/stars/ClaveauAlex/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/ClaveauAlex/repo/stargazers
+[stars-url]: https://github.com/ClaveauAlex/EncourageBot/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ClaveauAlexClaveauAlex/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/ClaveauAlex/repo/issues
+[issues-url]: https://github.com/ClaveauAlex/EncourageBot/issues
 [license-shield]: https://img.shields.io/github/license/ClaveauAlex/repo.svg?style=for-the-badge
-[license-url]: https://github.com/ClaveauAlex/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/ClaveauAlex/EncourageBot/blob/master/LICENSE.txt
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ClaveauAlex -->
